@@ -17,7 +17,6 @@ export function Header() {
             <ActiveLink href="/">Início</ActiveLink>
             <ActiveLink href="/blog">Blog</ActiveLink>
             <Button
-              className="rounded-4xl"
               variant="secondary"
               asChild
             >
